@@ -1,0 +1,8 @@
+.container{
+  width: 85%;
+  margin: auto;
+}
+body{
+  overflow-x: hidden;
+  background-color: black;
+}

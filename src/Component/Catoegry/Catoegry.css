@@ -1,0 +1,23 @@
+.Catoegry{
+position: relative;
+display: flex;
+top: 40px;
+right: 35%;
+padding-bottom: 60px;
+display: inline-block;
+
+}
+.Catoegry button{
+  border-radius: 10px;
+  width: 70px;
+  height: 50px;
+  background-color: white;
+  border-color: teal;
+  border-width: 4px;
+  font-size: 20px;
+  display: block;
+  margin-right: 5px;
+}
+.Catoegry button:hover{
+  background-color: teal;
+}
